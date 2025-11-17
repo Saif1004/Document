@@ -51,7 +51,8 @@
       ],
 
       "_js": [
-        "styles/main.js"
+        "styles/main.js",
+        "styles/docfx.js"
       ]
     }
   }
